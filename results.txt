@@ -1,0 +1,25 @@
+{
+  "patientResults": {
+    "1": {
+      "Patient": null,
+      "Age Range": null
+    },
+    "2": {
+      "Patient": null,
+      "Age Range": null
+    }
+  },
+  "unfilteredResults": {},
+  "localIdPatientResultsMap": {
+    "1": {
+      "undefined": {}
+    },
+    "2": {
+      "undefined": {}
+    }
+  },
+  "patientEvaluatedRecords": {
+    "1": [],
+    "2": []
+  }
+}
